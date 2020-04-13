@@ -14,6 +14,8 @@ def link
 end
 
 
-def all_phrases(argument)
-  puts argument
+def all_phrases
+  mario
+  toadstool
+  link
 end
