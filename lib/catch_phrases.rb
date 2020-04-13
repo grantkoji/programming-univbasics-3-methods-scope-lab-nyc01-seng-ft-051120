@@ -14,5 +14,6 @@ def link
 end
 
 
-def all_phrases()
+def all_phrases(argument)
+  puts argument
 end
